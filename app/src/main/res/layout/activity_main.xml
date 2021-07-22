@@ -16,8 +16,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="4567!"
+        android:text="45!"
         android:layout_below="@id/one"
         tools:ignore="UnknownId" />
-
 </RelativeLayout>
