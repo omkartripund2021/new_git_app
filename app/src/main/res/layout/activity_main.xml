@@ -14,9 +14,18 @@
         android:layout_centerHorizontal="true"/>
 
     <TextView
+        android:id="@+id/two"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="45!"
         android:layout_below="@id/one"
         tools:ignore="UnknownId" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1010145!"
+        android:layout_below="@id/two"
+        tools:ignore="UnknownId" />
+
 </RelativeLayout>
