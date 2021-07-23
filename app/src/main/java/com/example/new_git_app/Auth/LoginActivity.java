@@ -1,8 +1,10 @@
-package com.example.new_git_app;
+package com.example.new_git_app.Auth;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.new_git_app.R;
 
 public class LoginActivity extends AppCompatActivity {
     @Override
